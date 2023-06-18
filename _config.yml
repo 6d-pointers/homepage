@@ -24,9 +24,9 @@ name                     : "Minjun Nah"
 description              : "Homepage/Blog of 6d-pointers."
 url                      : "https://6d-pointers.github.io/homepage"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : 6d-pointers/homepage
+repository               : "6d-pointers/homepage"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/profpic.png"
+logo                     : "/assets/images/profpic.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -87,7 +87,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/profpic.png
+og_image                 : "/assets/images/profpic.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -106,26 +106,26 @@ analytics:
 # Site Author
 author:
   name             : "6d-pointers"
-  avatar           : /assets/images/profpic.png
+  avatar           : "/assets/images/profpic.png"
   bio              : "Minjun Nah"
   location         : "South Korea"
   email            : "6d.pointers@gmail.com"
   links:
     - label: "Email"
-      icon : "fa-solid fa-envelope"
+      icon : "fa fa-solid fa-envelope"
       url  : "mailto:6d.pointers@gmail.com"
     - label: "Github"
-      icon : "fa-brand fa-github"
+      icon : "fa fa-brand fa-github"
       url  : "https://github.com/6d-pointers"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
-      icon : "fa-solid fa-envelope"
+      icon : "fa fa-solid fa-envelope"
       url  : "mailto:6d.pointers@gmail.com"
     - label: "Github"
-      icon : "fa-brand fa-github"
+      icon : "fa fa-brand fa-github"
       url  : "https://github.com/6d-pointers"
 
 
