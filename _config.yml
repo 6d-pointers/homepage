@@ -125,7 +125,7 @@ footer:
       icon : "fa fa-solid fa-envelope"
       url  : "mailto:6d.pointers@gmail.com"
     - label: "Github"
-      icon : "fa fa-brands fa-github"
+      icon : "fa fa-fw fa-github"
       url  : "https://github.com/6d-pointers"
 
 
